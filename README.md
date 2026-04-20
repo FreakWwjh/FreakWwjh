@@ -13,7 +13,7 @@ My interests mainly focus on **Artificial Intelligence**, **Large Language Model
 - Large Language Models (LLMs)
 - Medical Image Analysis
 - Computer Vision
-- 
+ 
 ## Awards
 - **National Second Prize**, CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)
 - **Outstanding Student**, Xi'an Jiaotong University
