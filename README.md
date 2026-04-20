@@ -1,4 +1,4 @@
-# Hi there , I am Jianhao Wu
+# Hi there 👋, I am Jianhao Wu
 
 ## About me
 I am an undergraduate student majoring in **Computer Science and Technology** at **Xi'an Jiaotong University (XJTU)**.
@@ -30,7 +30,7 @@ My interests mainly focus on **Artificial Intelligence**, **Large Language Model
 - Research and building useful tools
 - AI applications in learning and science
 
-👋
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreakWwjh)](https://github.com/FreakWwjh/github-readme-stats)
 <!--
 **FreakWwjh/FreakWwjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
